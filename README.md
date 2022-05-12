@@ -4,7 +4,7 @@
 ***Acceder al API de trello para renombrar una tarjeta por ID***
 
 *Request*  
-*Tipo de funcion = ***PUT***
+*Tipo de funcion = ***PUT***  
  **id = Id de la tarjeta a modificar**  
  **name = nuevo nombre de la tarjeta**  
  **key = key personal obtenida de trello**  
