@@ -11,7 +11,7 @@
  **key = key personal obtenida de trello**  
   **key = key personal obtenida de trello**  
  ```
-https://api.trello.com/1/cards/{id}?name=nuevonombre2&key=&token=
+https://api.trello.com/1/cards/{id}?name={name}&key={key}&token={key}
 ```
 
 
@@ -25,5 +25,5 @@ https://api.trello.com/1/cards/{id}?name=nuevonombre2&key=&token=
 **key = key personal obtenida de trello**  
 
 ```
-https://api.trello.com/1/cards/{id}?key=&token=
+https://api.trello.com/1/cards/{id}?key{key}=&token={key}
 ```
